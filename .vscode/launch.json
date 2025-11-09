@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-WatchlistApplication<watchlist>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.watchlist.watchlist.WatchlistApplication",
+            "projectName": "watchlist",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
